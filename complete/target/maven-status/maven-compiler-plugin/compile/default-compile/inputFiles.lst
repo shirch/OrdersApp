@@ -1,0 +1,16 @@
+/Users/shchen/dev/spring/gs-spring-boot/initial/src/main/java/com/example/springboot/model/User.java
+/Users/shchen/dev/spring/gs-spring-boot/initial/src/main/java/com/example/springboot/dao/ProductDao.java
+/Users/shchen/dev/spring/gs-spring-boot/initial/src/main/java/com/example/springboot/dao/OrderDao.java
+/Users/shchen/dev/spring/gs-spring-boot/initial/src/main/java/com/example/springboot/model/Product.java
+/Users/shchen/dev/spring/gs-spring-boot/initial/src/main/java/com/example/springboot/dao/impl/OrderDaoImpl.java
+/Users/shchen/dev/spring/gs-spring-boot/initial/src/main/java/com/example/springboot/service/ProductService.java
+/Users/shchen/dev/spring/gs-spring-boot/initial/src/main/java/com/example/springboot/dao/impl/UserDaoImpl.java
+/Users/shchen/dev/spring/gs-spring-boot/initial/src/main/java/com/example/springboot/service/impl/ProductServiceImpl.java
+/Users/shchen/dev/spring/gs-spring-boot/initial/src/main/java/com/example/springboot/OrdersController.java
+/Users/shchen/dev/spring/gs-spring-boot/initial/src/main/java/com/example/springboot/dao/UserDao.java
+/Users/shchen/dev/spring/gs-spring-boot/initial/src/main/java/com/example/springboot/service/impl/OrderServiceImpl.java
+/Users/shchen/dev/spring/gs-spring-boot/initial/src/main/java/com/example/springboot/model/Order.java
+/Users/shchen/dev/spring/gs-spring-boot/initial/src/main/java/com/example/springboot/dao/impl/ProductDaoImpl.java
+/Users/shchen/dev/spring/gs-spring-boot/initial/src/main/java/com/example/springboot/service/UserService.java
+/Users/shchen/dev/spring/gs-spring-boot/initial/src/main/java/com/example/springboot/service/impl/UserServiceImpl.java
+/Users/shchen/dev/spring/gs-spring-boot/initial/src/main/java/com/example/springboot/service/OrderService.java
