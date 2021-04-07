@@ -14,25 +14,25 @@ import com.example.springboot.service.ProductService;
 @Controller
 public class OrdersController {
 
-//	@Autowired
-//	UserService userService;
-//
-//	@Autowired
-//	ProductService productService;
+	@Autowired
+	UserService userService;
+
+	@Autowired
+	ProductService productService;
 
 	@RequestMapping("/")
 	public String index() {
 		return "Hello!";
 	}
 
-//	@RequestMapping("/users")
-//	public List<User> users() {
-//		return  userService.listUsers();
-//	}
-//
-//	@RequestMapping("/products")
-//	public List<Product> products() {
-//		return  productService.listProducts();
-//	}
+	@RequestMapping("/users")
+	public List<User> users() {
+		return  userService.listUsers();
+	}
+
+	@RequestMapping("/products")
+	public List<Product> products() {
+		return  productService.listProducts();
+	}
 
 }
